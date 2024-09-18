@@ -1,0 +1,1 @@
+export { getObj } from './utils';
